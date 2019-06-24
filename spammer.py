@@ -11,7 +11,7 @@
 
 import spammer_class
 spammer = spammer_class.Spammer()
-spammer.author = "P4kL0nc4t & Noxturnix"
+spammer.author = "Zimail"
 try:
     spammer.main()
 except KeyboardInterrupt:

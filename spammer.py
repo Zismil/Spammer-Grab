@@ -2,7 +2,7 @@
 
 # - Spammer v3.1
 # | Description: spams a phone number by sending it a lot of sms by using Grab API
-# | Author: P4kL0nc4t & Noxturnix
+# | Author: Zismai
 # | Date: 25/04/2018
 # | Disclaimer: Editing author will not make you the real coder
 # | What's New?
